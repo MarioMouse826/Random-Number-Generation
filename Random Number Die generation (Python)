@@ -31,3 +31,10 @@ print(f'{3:>4}{frequency3:>13}')
 print(f'{4:>4}{frequency4:>13}')
 print(f'{5:>4}{frequency5:>13}')
 print(f'{6:>4}{frequency6:>13}')
+
+
+
+
+#Script uses nested control statements (if...elif statement nested in the for statement
+#For statement iterates 6,000,000 times, but Python underscore (_) digit is required because commas separate arguments in function calls.
+#For each die roll, script adds 1 to the appropriate counter variable. 
